@@ -1,9 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-image: url('/assests/background/IMC.jpg'); /* Caminho para a imagem */
-    background-size: cover; /* Faz a imagem cobrir toda a área */
-    background-position: center; /* Centraliza a imagem */
-    background-repeat: no-repeat; /* Não repete a imagem */
+    background: linear-gradient(120deg, #ffe53bd8, #ff2525da);
     display: flex;
     justify-content: center;
     align-items: center;
